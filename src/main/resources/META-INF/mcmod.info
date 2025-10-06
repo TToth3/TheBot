@@ -1,0 +1,14 @@
+{
+  "modid": "baritonebot",
+  "name": "Baritone Bot Mod",
+  "description": "A Forge mod for Minecraft 1.20.1 that uses Baritone to follow commands.",
+  "version": "1.0.0",
+  "mcversion": "1.20.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["You"],
+  "credits": "Made with ChatGPT",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
